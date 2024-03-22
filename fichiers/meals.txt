@@ -1,0 +1,4 @@
+kebab
+mcdo
+burger
+ommelette
